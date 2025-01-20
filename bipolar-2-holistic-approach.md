@@ -32,7 +32,11 @@ _I couldn't swing 5-HTP because it gave me severe heartburn, but boy it made me 
 
 **Night Time**
 
-I take these about 30m - 1hr before bed. It's extremely important to have a set and scheduled bedtime. 
+I take these about 30m - 1hr before bed. It's extremely important to have a set and scheduled bedtime.
+
+The point of this is to reset your circadium rhythm to help reset your sleep schedule.
+
+Since mania induces a really crazy sleep schedule and makes it impossible to fix by normal means.
 
 _DO NOT STRAY AWAY FROM YOUR BEDTIME IT CAN INVOKE MANIA_
 
