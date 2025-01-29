@@ -126,6 +126,23 @@ Why try harder when it's already laid out right here: https://www.reddit.com/r/E
 
 There's even a name for the pattern so you can get their attention quickly: https://www.tealhq.com/post/f-pattern-resume
 
+## Titles Over Compensation
+
+When you're first getting started it's important to try and get your first title as soon as possible.
+
+Usually software engineers are given the Junior Software Engineer role or some kind of intern role.
+
+It's highly imporant to get that on your resume as soon as possible because that makes you marketable to not only yourself but everyone around you.
+
+Bag those titles and use them to your advantage.
+
 ## Luck
 
 The last and final piece of advice is that the universe does not provide unless you ask it to provide for you. You may not be spiritual or you may be too smart for your own good. However, if there's one thing that is true is that if you can dig deep and talk to your inner self and the threads that align us humans into a unique and malevolent experience that is life. You can sometimes pull the strings just a tiny bit.
+
+## Strange Money Making Methods
+
+- Build game mods and post them on Nexus Mods. If they're good you can get some side income from this.
+- Bug Bounty Programs -> Hacker One, BugCrowd, etc.
+- Freelance Smart Contract Developer -> Some people just want to launch a new token and you can sell a way to do it
+- Build WebSites for Local Companies -> Lookup businesses and offer redoing websites for absurdly low costs. You just want the experience.
