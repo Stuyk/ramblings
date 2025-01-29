@@ -9,27 +9,35 @@ This requires actually knowing who you are, so if you are unsure of who you are 
 If you do then you have a few different sectors to consider.
 
 Do you care a whole lot about the human life and the success of those around you?
+
 Then you probably want to be involved in something with healthcare and security.
 
 Do you care about the rule of law and fundamentally protecting the internet?
+
 Security. Team blue. Lookup CTF events.
 
 Do you care about causing as much chaos as possible on the internet?
+
 Security. Team red. Lookup CTF events.
 
 Do you care about building things like websites and helping build traditional applications?
+
 Programming, but your focus will be Web 2.0 and frontend development.
 
 Are you really into building system level applications and building products that live on the desktop?
+
 Software Engineering.
 
 Are you really into building everything from top to bottom?
+
 Fullstack Engineering.
 
 Are you really into next generation financial services and disrupting government institutions?
+
 Blockchain. Smart Contracts. Security. Fullstack.
 
 Do you just like managing tech products and hate code?
+
 Product Manager
 
 There's a ton of different pathways out there but picking the right one
