@@ -4,7 +4,7 @@ Effectively blog posts without a blog.
 
 ## Beliefs
 
-- [Principles of Life](./principles-of-life.md)
+- [Principles of Life](./principles-of-life.md) - A series of simple paragraphs explaining my own belief system
 
 ## Health
 
@@ -17,4 +17,4 @@ Effectively blog posts without a blog.
 
 ## Tech
 
-- [How to get Into Tech](./how-to-get-into-tech.md)
+- [How to get Into Tech](./how-to-get-into-tech.md) - A document that basically says try harder
