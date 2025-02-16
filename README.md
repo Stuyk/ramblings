@@ -17,4 +17,4 @@ Effectively blog posts without a blog.
 
 ## Tech
 
-- [How to get Into Tech](./how-to-get-into-tech.md) - A document that basically says try harder
+- [How to get Into Tech](./how-to-get-into-tech.md) - A document that basically says make a GitHub, write code, and cross your fingers
