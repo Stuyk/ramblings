@@ -226,3 +226,9 @@ You'll have a much simpler life keeping these things off of your phone.
 If you have to have social media, ensure that it's only used for your work and productivity.
 
 Frankly, I use BlueSky at this current point in time to help build my follower base.
+
+## Celebrate Talent
+
+When you see others who are struggling but are inheritely talented at what they do, try to lift them up in whatever way you can.
+
+Giving them a platform and letting others know about them is the smallest gesture you can do.
