@@ -2,7 +2,7 @@
 
 Ultra did a lot of really awesome things for my career and I had a lot to learn.
 
-In a weird chain of events I ended up being part of the 15~ or so employees who were working on Ultra's Decentralized Gaming Platform that distributed games.
+In a weird chain of events I ended up being part of the first 15~ or so employees who were working on Ultra's Decentralized Gaming Platform that distributed games.
 
 Over 5 years it's hard to fully understand the amount of work that I put into all sorts of problems they were dealing with.
 
