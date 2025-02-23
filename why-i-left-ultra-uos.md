@@ -23,19 +23,27 @@ This may be a bit fuzzy because I was there for 5 years. Wires get crossed.
 11. Moving on, I took my hands off this project.
 12. We needed a solution to onboard users without adding the complexity of private keys.
 13. We came up with a solution that effectively stored half the key on the user side, and the other on Ultra's side.
-13a. This should be alarming for anyone who is a security maximalist.
+
+> This should be alarming for anyone who is a security maximalist.
+
 14. With the EOS account systems we also setup the permission system to allow for overriding active keys through Ultra's centralized infrastructure
-14a. What I mean by this is that there are systems in place to overwrite your active key when you 'forget your password'.
-14b. The keys are not currently yours and by design the chain's active keys can always be overwritten by a larger permission system.
-14c. While this is good for the consumer, it's not good for security breaches. Unironically your coins are probably safer on Ethereum.
+
+> What I mean by this is that there are systems in place to overwrite your active key when you 'forget your password'.
+> The keys are not currently yours and by design the chain's active keys can always be overwritten by a larger permission system.
+> While this is good for the consumer, it's not good for security breaches. Unironically your coins are probably safer on Ethereum.
+
 15. After integrating this system we pretty much launched the chain. One guy specifically did it really well and has since moved on from Ultra. He's still awesome.
 16. We hired lots of new engineers for the blockchain team, and even some that I looked up to and learned from before joining Ultra.
 17. Ultra suddenly decides that NFTs are high priority and we need to tokenize images, trying to cash in on non-video game things.
 18. We begin creating a larger NFT system that handles all types of aspects from game items to game keys themselves.
-18a. Reminder that games stored as NFTs are not stored as NFTs. Only the license is. You still have to download the game from somewhere.
+
+> Reminder that games stored as NFTs are not stored as NFTs. Only the license is. You still have to download the game from somewhere.
+
 19. I notice that our desktop client is some weird chrome fork, you may remember this.
-19a. A single person was working on this weird chrome fork and nobody else knew anything about it.
-19b. We never hired anyone to try and work on it with this one person. The entire company was teetering on this one guy.
+
+> A single person was working on this weird chrome fork and nobody else knew anything about it.
+> We never hired anyone to try and work on it with this one person. The entire company was teetering on this one guy.
+
 20. Eventually Ultra finally sees that we need to switch to Electron or something more maintainable. I believe Axel was the one responsible for bringing this up.
 21. NFTs are now a bad word and the general consumer market is not okay with NFTs.
 22. Someone at the top or whoever had the bright idea to rename NFTs to UNIQS. Which... come on dawg... lol
