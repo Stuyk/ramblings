@@ -11,7 +11,7 @@ Over 5 years it's hard to fully understand the amount of work that I put into al
 This may be a bit fuzzy because I was there for 5 years. Wires get crossed.
 
 1. I was hired, I was naive, and I was feeling awesome.
-2. Adam and I began working on the NFT system for distributed video games.
+2. Tech lead and I began working on the NFT system for distributed video games.
 3. We hit a wall, and eventually overcame a larger issue with the initial NFT solution.
 4. I began writing the initial test version of the NFT solution in C++
 5. The test solution was completed and it proved that there was more to do.
@@ -38,7 +38,7 @@ This may be a bit fuzzy because I was there for 5 years. Wires get crossed.
 19b. We never hired anyone to try and work on it with this one person. The entire company was teetering on this one guy.
 20. Eventually Ultra finally sees that we need to switch to Electron or something more maintainable. I believe Axel was the one responsible for bringing this up.
 21. NFTs are now a bad word and the general consumer market is not okay with NFTs.
-22. David or whoever had the bright idea to rename NFTs to UNIQS. Which... come on dawg... lol
+22. Someone at the top or whoever had the bright idea to rename NFTs to UNIQS. Which... come on dawg... lol
 23. Keywords and phrasing starts getting mixed up in the company as we try and rebrand NFTs for general consumers.
 24. Wider gaming market absolutely hates NFTs besides the Web 3.0 industry.
 25. The original target to try and capture around 5-10% of the gaming market is now dead in the water because NFTs are a bad word.
