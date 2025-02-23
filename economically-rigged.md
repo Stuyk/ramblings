@@ -66,13 +66,17 @@ Many states allow for tax lien sales, where a third party can pay your overdue p
 
 ## Social Security
 
-You're paying into a system until about 2034 and then we'll be completely out of money in our social safety net for the elderly.
+You're paying into a system until about 2034 and then we'll be completely out of money in our social safety net for the elderly beyond those who have already claimed.
+
+Basically get in now before it's too late, if you're old.
 
 This system specifically requires newer generations to continue paying into it for it be worthwhile.
 
 However, we are now fully aware that social security is absolutely going to go away and there is no retirement income for a large swath of American citizens beyond 2034.
 
 This is going to be an epidemic because we're playing musical chairs with people's lives.
+
+This could be totally solved by taxing the ever living fuck out of billionaires.
 
 - [Social Security Trust Fund Cash Flows and Reserves](https://www.ssa.gov/policy/docs/ssb/v75n1/v75n1p1.html)
 
