@@ -6,6 +6,10 @@ Effectively blog posts without a blog.
 
 - [Principles of Life](./principles-of-life.md) - A series of simple paragraphs explaining my own belief system
 
+## Growth
+
+- [Why I left Ultra ($UOS)](./why-i-left-ultra-uos.md) - A document that highlights my time at Ultra and reflections on it.
+
 ## Health
 
 - [Life Long Customer](./life-long-customer.md) - How the food industry was hijacked by the tabacco industry
@@ -19,4 +23,4 @@ Effectively blog posts without a blog.
 
 - [How to get Into Tech](./how-to-get-into-tech.md) - A document that basically says make a GitHub, write code, and cross your fingers
 - [Programming with Bipolar 2](./programming-with-bipolar-2.md) - A document that shows some upsides and downsides to working in tech with this specific Disorder.
-- [Why I left Ultra ($UOS)](./why-i-left-ultra-uos.md) - A document that highlights my time at Ultra and reflections on it.
+
