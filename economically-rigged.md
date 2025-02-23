@@ -26,6 +26,18 @@ Not everyone is given a 'little more money' which results in various working cla
 
 Depending on your sector, who you work for, etc. you're often getting a pay cut because they do not account for inflation.
 
+## Tariffs
+
+These are really funny and a lot of people misunderstand how tariffs work. 
+
+If you don't think corporations are going to eat the cost of Tariffs and not pass the pricing on to you, you're incredibly naive.
+
+Anyway, so when a company imports something from another Country they initially pay the taxes to import it.
+
+Then they just raise the price of the product they imported and pass that new price on to you, the customer.
+
+Tariffs fix nothing, they just make life more expensive for everyone and suck more money out of every day working class people's pockets.
+
 ## Property Taxes
 
 Congratulations, you just bought your first home. 
