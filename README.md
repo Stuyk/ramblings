@@ -6,6 +6,10 @@ Effectively blog posts without a blog.
 
 - [Principles of Life](./principles-of-life.md) - A series of simple paragraphs explaining my own belief system
 
+## Economics
+
+- [Economically Rigged](./economically-rigged.md) - A simple guide to your wealth inequality.
+
 ## Growth
 
 - [Why I left Ultra ($UOS)](./why-i-left-ultra-uos.md) - A document that highlights my time at Ultra and reflections on it.
