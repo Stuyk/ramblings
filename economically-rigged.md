@@ -18,6 +18,10 @@ The retail traders are given at best sloppy seconds to their pricing.
 
 All stock prices are now fake, and if you believe they're real you're incredibly naive.
 
+References:
+
+- This one is still developing, give it some time.
+
 ## Inflation and Quantitive Easing
 
 When inflation and quantitive easing occurs everyone gets a little more money. However, now everything costs a bit more.
@@ -25,6 +29,8 @@ When inflation and quantitive easing occurs everyone gets a little more money. H
 Not everyone is given a 'little more money' which results in various working class people being screwed over.
 
 Depending on your sector, who you work for, etc. you're often getting a pay cut because they do not account for inflation.
+
+- [Did Quantitive Easing Increase Income Inequality?](https://www.cepweb.org/wp-content/uploads/2017/11/Montecino-paper.pd)
 
 ## Tariffs
 
@@ -38,6 +44,12 @@ Then they just raise the price of the product they imported and pass that new pr
 
 Tariffs fix nothing, they just make life more expensive for everyone and suck more money out of every day working class people's pockets.
 
+References:
+
+- [The Impact of the 2018 Tariffs on Prices and Welfare](https://www.aeaweb.org/articles?id=10.1257%2Fjep.33.4.187)
+- [The Return of Protectionism](https://patrick-kennedy.github.io/files/RTP_FGKK_QJE_2020.pdf)
+- [The Production Relocation and Price Effects of US Trade Policy, the Case of Washing Machines](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190611)
+
 ## Property Taxes
 
 Congratulations, you just bought your first home. 
@@ -50,6 +62,8 @@ Well, someone will eventually come along and pay all those property taxes for yo
 
 You own nothing.
 
+Many states allow for tax lien sales, where a third party can pay your overdue property taxes in exchange for a lien on your property. If unpaid this results in foreclosure.
+
 ## Social Security
 
 You're paying into a system until about 2034 and then we'll be completely out of money in our social safety net for the elderly.
@@ -60,6 +74,8 @@ However, we are now fully aware that social security is absolutely going to go a
 
 This is going to be an epidemic because we're playing musical chairs with people's lives.
 
+- [Social Security Trust Fund Cash Flows and Reserves](https://www.ssa.gov/policy/docs/ssb/v75n1/v75n1p1.html)
+
 ## Retirement Homes
 
 A majority of retirement homes are also now owned by the ultra wealthy, investment firms, and private equity.
@@ -67,6 +83,12 @@ A majority of retirement homes are also now owned by the ultra wealthy, investme
 This means that they get to make the rates for everyone who is retiring which effectively transfers all wealth you may have gotten straight into the pockets of the ultra rich.
 
 If you want to pass on generational wealth, you're better off dying or completely exiting the United States as soon as possible.
+
+References:
+
+- [Private Equity's Growing Presence in Senior Living](https://pestakeholder.org/news/private-equitys-growing-presence-in-senior-living/)
+- [Private Equity Ownership linked to Lower Quality of Care, Higher Medicare Costs](https://news.weill.cornell.edu/news/2021/11/private-equity-ownership-of-nursing-homes-linked-to-lower-quality-of-care-higher)
+- [Private Equity's Growing Footprint in Home Health Care](https://stateline.org/2024/01/31/private-equitys-growing-footprint-in-home-health-care-draws-scrutiny/)
 
 ## To Be Continued
 
