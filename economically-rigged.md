@@ -144,6 +144,10 @@ Here's some bullet points.
 - The richest Americans benefit from lower tax rates on investment income, allowing them to pay a lower overall tax rate compared to many working-class individuals
 - The rich use the strategy called buy, borrow, and die. This allows them to buy stocks, real estate, or businesses. Then they borrow from the banks against those assets. Loans aren't taxable income. Then they die and do what is called 'step-up in basis' meaning any gains made during their lifetime are erased for tax purposes. The rich will always get richer.
 
+Here's some taxes that Tesla paid over the past 3 years.
+
+![brave_DcC20gxKJd](https://github.com/user-attachments/assets/edd4e72e-3851-406b-a1be-4c9cc4502587)
+
 ## To Be Continued
 
 I have more to write and more topics to cover but this is just the beginning.
