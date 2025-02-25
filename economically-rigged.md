@@ -94,6 +94,56 @@ References:
 - [Private Equity Ownership linked to Lower Quality of Care, Higher Medicare Costs](https://news.weill.cornell.edu/news/2021/11/private-equity-ownership-of-nursing-homes-linked-to-lower-quality-of-care-higher)
 - [Private Equity's Growing Footprint in Home Health Care](https://stateline.org/2024/01/31/private-equitys-growing-footprint-in-home-health-care-draws-scrutiny/)
 
+## Credit Scores
+
+Credit scores are effectively the banks way to score you for how much money they're going to make off of you.
+
+When you have a higher credit score you're likely going to have a lot more income to spend on their interest payments.
+
+Which means the banks are making a killing off of your interest payments.
+
+Articles:
+
+- [Profitability and Customer Financial Health](https://www.fico.com/blogs/profitability-and-customer-financial-health-retail-banking)
+- [Credit Scores are Hazardous to your financial health](https://www.ft.com/content/f6f71a95-9e43-41c3-9a53-f577d31832a4)
+
+
+## The Poor Tax
+
+Did you know that in the United States it's more expensive to be poor?
+
+You may be thinking that's the most bizarre thing I've ever read, but lemme explain a bit.
+
+1. When you miss a payment on a loan with interest, you pay more interest.
+2. When you have $10 for the week and you need a bar of soap you can't go buy the cheaper bulk pack. Instead you buy the dollar store bar of soap that charges you more. That's what you need at the time.
+3. Ever miss a rent payment, or miss multiple rent payments? They just kick you out and make it way harder to get a place to stay. You may even have to stay in a day-to-day motel.
+4. When you miss payments on any bill your credit score gets dinged, and it makes it impossible to get a loan for a vehicle.
+5. Did I mention that in the US you need a vehicle to live? You're better off moving to a city with high walkability and better transit if you're poor.
+
+Don't even get me started on the fact that when you are in poverty you live in poorly maintained areas which shift your everyday needs elsewhere.
+
+You start having to think about who is around you, am I going to be safe, am I going to make it through the week, what can I put on the table for my kids, etc.
+
+References:
+
+- [The Cost of Being Poor: Why It Costs So Much To Be Poor in America](https://finmasters.com/cost-of-being-poor/)
+- [Poverty Reduces Brainpower for Navigating Life](https://www.princeton.edu/news/2013/08/29/poor-concentration-poverty-reduces-brainpower-needed-navigating-other-areas-life)
+
+## Taxes are Rigged
+
+Yes, you heard that right. The tax system is rigged so badly that the working class is constantly paying into the government and the rich hardly pay a dime.
+
+Did you know that the rich used to pay upwards of 80% of their income up until the 80s?
+
+That's why America was thriving back then. It was because we taxed the shit out of the rich and passed it on to infrastructure and made people's lives better.
+
+Here's some bullet points.
+
+- Low-income individuals pay a higher percentage of their income in state and local taxes compared to the wealthy. The poorest 20% pay around 11.4%, while the top 1% pay only 7.4%
+- Sales taxes, payroll taxes, and property taxes disproportionately impact the poor since they consume a larger share of their income, while the wealthy benefit from tax loopholes and lower capital gains rates
+- The richest Americans benefit from lower tax rates on investment income, allowing them to pay a lower overall tax rate compared to many working-class individuals
+- The rich use the strategy called buy, borrow, and die. This allows them to buy stocks, real estate, or businesses. Then they borrow from the banks against those assets. Loans aren't taxable income. Then they die and do what is called 'step-up in basis' meaning any gains made during their lifetime are erased for tax purposes. The rich will always get richer.
+
 ## To Be Continued
 
 I have more to write and more topics to cover but this is just the beginning.
