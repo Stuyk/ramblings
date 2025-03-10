@@ -20,7 +20,7 @@ Retail traders get worse execution because they don’t have access to the same 
 
 References:
 
-- [Dark Pools Have Taken Over The Market](https://www.newconstructs.com/dark-pools-have-taken-over-the-market/]
+- [Dark Pools Have Taken Over The Market](https://www.newconstructs.com/dark-pools-have-taken-over-the-market/)
 - [Redditor Exploring Dark Pools](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/)
 
 ## Inflation and Quantitive Easing
