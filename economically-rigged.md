@@ -12,15 +12,16 @@ Dark pools are basically the Wall Street equivalent of a private exchange that o
 
 ![brave_vxDRkphien](https://github.com/user-attachments/assets/c5a03580-daf1-4b93-8c63-41fd1a12eed0)
 
-What this means is that all the big money like billionares and corporations get to set the prices of all stocks.
+Dark pools are private exchanges where large institutions trade stocks away from public markets to avoid impacting prices. 
 
-The retail traders are given at best sloppy seconds to their pricing.
+This lack of transparency can lead to unfair advantages for institutions, reduced price discovery, and potential manipulation. 
 
-All stock prices are now fake, and if you believe they're real you're incredibly naive.
+Retail traders get worse execution because they don’t have access to the same hidden liquidity and pricing data.
 
 References:
 
-- This one is still developing, give it some time.
+- [Dark Pools Have Taken Over The Market](https://www.newconstructs.com/dark-pools-have-taken-over-the-market/]
+- [Redditor Exploring Dark Pools](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/)
 
 ## Inflation and Quantitive Easing
 
