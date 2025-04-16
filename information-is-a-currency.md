@@ -26,9 +26,9 @@ A real life footprint.
 - Who you vote for.
 - What businesses you visit.
 
-I want you to reflect on those bullet points above, because that information does exist it's just safely locked into a government database where nobody could ever access it.
+I want you to reflect on those bullet points above, because that information does exist it's just safely locked into a government database where nobody could ever access it. Right?
 
-A recent whistleblower revealed that [foreign actors even state-backed have attempted to access these databases using valid internal credentials](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security), this was only possible after DOGE changed a bunch of roles and leaked a bunch of data from the database.
+Anyway, a recent whistleblower revealed that [foreign actors even state-backed have attempted to access these databases using valid internal credentials](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security), this was only possible after DOGE changed a bunch of roles and leaked a bunch of data from the database.
 
 Try not to miss the important note in the above article highlighting Russian IPs accessing databases with correct internal credentials but being blocked by IP white lists.
 
