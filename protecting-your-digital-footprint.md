@@ -131,4 +131,11 @@ If you're using gmail, hotmail, outlook, etc. you are vastly underestimating wha
 
 Check out these email providers: [Tuta](https://tuta.com/) & [ProtonMail](https://protonmail.com/)
 
+## Your Internet Sucks
 
+Every website you visit can be more or less tracked. VPNs help by re-routing your traffic to other data centers.
+
+Here's 2 of them that are generally trusted and do not keep logs.
+
+- [Mullvad](https://mullvad.net/en)
+- [ProtonVPN](https://protonvpn.com/)
