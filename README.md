@@ -26,7 +26,7 @@ Effectively blog posts without a blog.
 
 ## Security
 
-- [Protecting Your Digital Footprint](./protecting-your-digital-footprint.md)
+- [Protecting Your Digital Footprint](./protecting-your-digital-footprint.md) - Change how you use the internet, forever.
 
 ## Tech
 
