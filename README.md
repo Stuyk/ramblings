@@ -24,6 +24,10 @@ Effectively blog posts without a blog.
 - [Entering the Crisis Quinquennial](./entering-the-crisis-quinquennial.md) - What to expect in the next 8 years as techno-feudalism is rolled out
 - [Information is a Currency](./information-is-a-currency.md) - techno-feudalism making lots of big moves lately
 
+## Security
+
+- [Protecting Your Digital Footprint](./protecting-your-digital-footprint.md)
+
 ## Tech
 
 - [How to get Into Tech](./how-to-get-into-tech.md) - A document that basically says make a GitHub, write code, and cross your fingers
