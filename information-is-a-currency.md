@@ -6,7 +6,7 @@ Even the most mundane browsing behavior reveals more than you might expect.
 
 - Where you are located
 - What website brought you here
-- How long you stated
+- How long you stayed
 - [What you clicked, scrolled past, or hovered over](https://www.hotjar.com/)
 - If you're logged into services like Google, Facebook, etc.
 
