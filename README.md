@@ -21,7 +21,8 @@ Effectively blog posts without a blog.
   
 ## Politcal
 
-- [Entering the Crisis Quinquennial](./entering-the-crisis-quinquennial.md) - What to expect in the next 8 years as techno-fuedalism is rolled out
+- [Entering the Crisis Quinquennial](./entering-the-crisis-quinquennial.md) - What to expect in the next 8 years as techno-feudalism is rolled out
+- [Information is a Currency](./information-is-a-currency.md) - techno-feudalism making lots of big moves lately
 
 ## Tech
 
