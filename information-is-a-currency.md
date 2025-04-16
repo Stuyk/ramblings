@@ -28,7 +28,9 @@ A real life footprint.
 
 I want you to reflect on those bullet points above, because that information does exist it's just safely locked into a government database where nobody could ever access it.
 
-A recent [Wired investigation](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security) revealed that [DOGE shared mass citizen data with Palantir](https://www.wired.com/story/palantir-doge-irs-mega-api-data/), and that foreign actors even state-backed have attempted to access these databases using valid internal credentials.
+A recent whistleblower revealed that [foreign actors even state-backed have attempted to access these databases using valid internal credentials](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security), this was only possible after DOGE changed a bunch of roles and leaked a bunch of data from the database.
+
+Additionally, [DOGE shared mass citizen data with Palantir](https://www.wired.com/story/palantir-doge-irs-mega-api-data/) which directly works with venture capitalists.
 
 Try not to miss the important note in the second article about Russian IPs accessing databases with correct internal credentials but being blocked by IP white lists.
 
