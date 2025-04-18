@@ -139,3 +139,14 @@ Here's 2 of them that are generally trusted and do not keep logs.
 
 - [Mullvad](https://mullvad.net/en)
 - [ProtonVPN](https://protonvpn.com/)
+
+## Install a piHole
+
+A what?! Yes, you read that right a PiHole. This allows your entire network to block trackers, ads, etc.
+
+It takes a little bit of technical knowledge but your privacy is worth the effort.
+
+[Install a PiHole](https://pi-hole.net/)
+
+If you don't know how to do it based on the website, watch some videos. There's plenty of them.
+
