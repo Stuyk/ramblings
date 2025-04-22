@@ -232,3 +232,11 @@ Frankly, I use BlueSky at this current point in time to help build my follower b
 When you see others who are struggling but are inheritely talented at what they do, try to lift them up in whatever way you can.
 
 Giving them a platform and letting others know about them is the smallest gesture you can do.
+
+## Privacy is Default
+
+Everyone should have the right to privacy for their individual data. I think it's very important that users own their own data, and are responsible for their own data.
+
+What users choose to publish and 'give' to other platforms is just relinquishing rights to your data.
+
+Fundamentally I think we need to handle data in a very different way, where the individual user is the sole provider of the data.
