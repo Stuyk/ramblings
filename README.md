@@ -10,6 +10,7 @@ Effectively blog posts without a blog.
 
 - [Economically Rigged](./economically-rigged.md) - A simple guide to your wealth inequality.
 - [Job Loss Shockwave](./job-loss-shockwave.md) - A job loss shockwave.
+- [Financial Freedom is Simple](./financial-freedom-is-simple.md) - A guide to financial freedom.
 
 ## Growth
 
