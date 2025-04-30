@@ -39,6 +39,12 @@ That's really it, you want to eliminate all of the applications that are catchin
 
 This also removes your digital footprint for 99% of the stuff that you're doing.
 
+## Cash is Privacy
+
+Withdraw cash, and spend it. If you're so inclined.
+
+Banks can build a digital footprint on where you spend your money.
+
 ## Separate Your Business
 
 If you're someone who uses social media for business related functionalities then I highly suggest that you get a business specific laptop.
