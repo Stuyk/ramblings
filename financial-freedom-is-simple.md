@@ -118,7 +118,7 @@ There are currently 3 ways to retire in the United States and even then you shou
 
 1. Luck, yup it's just pure fucking luck.
 2. Boglehead Investing, you simply invest into the stock market in funds like the S&P 500, VOO, VTI, VSUX, etc.
-3. FIRE Retirement Planning (Diversify with Crypto, Stocks, Mutual Funds, etc.)
+3. FIRE Retirement Planning (Diversify with Crypto, Stocks, Gold, Silver, Treasury Bills, Mutual Funds, etc.)
    - The pathway is basically (Pay Credit Cards Off -> Pay Loans Off -> Pay Auto Loans Off -> Build 6 Months Cost of Living Emergency Fund -> Invest in 401k (If Available) -> Open and Max Out an IRA Every Year -> Invest Leftovers in Stock Market)
 
 What 2 and 3 have in common is that when they're making investments no matter if the market is up or down, they continue to buy stocks regardless of the market. It's called dollar cost average investing.
