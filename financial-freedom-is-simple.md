@@ -14,7 +14,7 @@ You have to have discipline, and you have to have some diamond hands to make sur
 
 If you haven't built a budget, make sure you fucking do it.
 
-Don't read this part and ignore, BUILD A FUCKING BUDGET.
+Don't read this part and ignore it, BUILD A FUCKING BUDGET.
 
 GO INTO YOUR STATEMENTS, AND LOOK AT ALL THAT MONEY YOU SPENT.
 
