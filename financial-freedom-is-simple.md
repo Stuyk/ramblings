@@ -39,7 +39,6 @@ In the wise words of Stuyk
 In order to make it to retirement the game has changed, but it's still the same game. You need to stop eating out, stop doing door dash, stop buying expensive clothes, stop buying all of the unncessary shit that you don't need.
 
 1. Eat less food, have less snacks for yourself
-   - If you have more snacks for your kids and self-control they're not gonna remember not being poor.
    - A lot of us can survive off of a single meal a day, but **it requires discipline**.
   
 2. Buy clothes from thrift stores, or don't buy it at all
