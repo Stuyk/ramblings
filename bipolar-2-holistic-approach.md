@@ -1,4 +1,4 @@
-## Bipolar 2 - The Holistic Approach
+# Bipolar 2 - The Holistic Approach
 
 It has been a hell of a week trying to get out of a manic episode that seemingly only spiraled me further without getting proper sleep. I'm kind of new on the block to understanding how bipolar disorder works and I've been trying to figure out what to do about it. I fall into the bipolar-2 category.
 
