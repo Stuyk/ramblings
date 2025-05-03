@@ -1,3 +1,5 @@
+# Life Long Customer
+
 Congratulations, you have now become a lifelong customer from the expense of a time before you were even born. If you're a United States citizen you're totally fucked but not completely fucked just yet. 
 
 ## Section 0. Customer Lifetime Value
