@@ -3,6 +3,7 @@ const fs = require('fs');
 const { execSync } = require('child_process');
 
 const files = glob.sync('*.md');
+const repoUrl = 'https://github.com/Stuyk/ramblings'; // Explicitly define the repository URL
 
 const jsonData = [];
 
@@ -18,8 +19,17 @@ for(let filePath of files) {
         continue;
     }
 
-    const creationDate = execSync(`git log --diff-filter=A --format="%aI" -- ${filePath}`, { encoding: 'utf-8' }).trim();
-    jsonData.push({ title, url: `https://raw.githubusercontent.com/Stuyk/ramblings/main/${filePath}`, creationDate });
+    try {
+        // Use git log on the remote repository to find the first commit involving the file
+        const creationDate = execSync(`git log --follow --diff-filter=A --format="%aI" -- ${filePath}`, {
+            cwd: '.', // Make sure we are in the cloned repository's directory
+            encoding: 'utf-8'
+        }).trim().split('\n').pop(); // Get the last (oldest) commit date
+        jsonData.push({ title, url: `${repoUrl}/blob/main/${filePath}`, creationDate });
+    } catch (error) {
+        console.error(`Error getting creation date for ${filePath}: ${error}`);
+        jsonData.push({ title, url: `${repoUrl}/blob/main/${filePath}`, creationDate: null }); // Or some other default
+    }
 }
 
 jsonData.sort((a, b) => {
@@ -27,14 +37,14 @@ jsonData.sort((a, b) => {
     const dateB = b.creationDate ? new Date(b.creationDate) : null;
 
     if (dateA && dateB) {
-        return  dateB.getTime() - dateA.getTime() // Sort in ascending order (oldest first)
+        return new Date(dateB).getTime() - new Date(dateA).getTime(); // Sort in descending order (newest first)
     } else if (dateA) {
         return -1;
     } else if (dateB) {
-        return 1; // Items without a valid date come after those with
+        return 1;
     } else {
-        return 0; // Both have no valid date, maintain original order
+        return 0;
     }
 });
 
-fs.writeFileSync('files.json', JSON.stringify(jsonData));
+fs.writeFileSync('files.json', JSON.stringify(jsonData, null, 2));
