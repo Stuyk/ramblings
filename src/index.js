@@ -3,8 +3,6 @@ const fs = require('fs');
 const { execSync } = require('child_process');
 
 const files = glob.sync('*.md');
-const repoUrl = 'https://github.com/Stuyk/ramblings'; // Explicitly define the repository URL
-
 const jsonData = [];
 
 for(let filePath of files) {
@@ -25,10 +23,10 @@ for(let filePath of files) {
             cwd: '.', // Make sure we are in the cloned repository's directory
             encoding: 'utf-8'
         }).trim().split('\n').pop(); // Get the last (oldest) commit date
-        jsonData.push({ title, url: `${repoUrl}/blob/main/${filePath}`, creationDate });
+        jsonData.push({ title, url: `https://raw.githubusercontent.com/Stuyk/ramblings/refs/heads/main/${filePath}`, creationDate });
     } catch (error) {
         console.error(`Error getting creation date for ${filePath}: ${error}`);
-        jsonData.push({ title, url: `${repoUrl}/blob/main/${filePath}`, creationDate: null }); // Or some other default
+        jsonData.push({ title, url: `https://raw.githubusercontent.com/Stuyk/ramblings/refs/heads/main/${filePath}`, creationDate: null }); // Or some other default
     }
 }
 
