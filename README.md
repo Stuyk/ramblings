@@ -25,6 +25,7 @@ Effectively blog posts without a blog.
 
 - [Entering the Crisis Quinquennial](./entering-the-crisis-quinquennial.md) - What to expect in the next 8 years as techno-feudalism is rolled out
 - [Information is a Currency](./information-is-a-currency.md) - techno-feudalism making lots of big moves lately
+- [The Next Economic Superpower](./the-next-economic-super-power.md) - Watch closely as power is shuffled amongst the entire world
 
 ## Security
 
