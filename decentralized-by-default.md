@@ -10,7 +10,7 @@ The `memo` field allows you to write a little note about the transaction you're 
 
 Or dare I say, it takes you a certain amount of gas to store some data in the memo.
 
-This solution was born from the limitations in existing blockhains.
+This solution was born from the limitations in existing blockchains.
 
 ## Decentralizing Everything
 
