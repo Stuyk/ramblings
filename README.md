@@ -15,6 +15,7 @@ Effectively blog posts without a blog.
 ## Growth
 
 - [Why I left Ultra ($UOS)](./why-i-left-ultra-uos.md) - A document that highlights my time at Ultra and reflections on it.
+- [Pointlessness](./pointlessness.md) - A document about some reflection in my 30s
 
 ## Health
 
