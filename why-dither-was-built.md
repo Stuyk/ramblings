@@ -8,9 +8,9 @@ Dither's brilliance lies in its simplicity and adaptability. It's not a new bloc
 
 When a user posts a message via Dither, that text is embedded within a standard blockchain transaction's memo field. This process is crucial because:
 
-Permanence: Transactions are bundled into blocks, and these blocks are stored perpetually across the entire decentralized network. The memo, and therefore the message, is saved forever.
+- Permanence: Transactions are bundled into blocks, and these blocks are stored perpetually across the entire decentralized network. The memo, and therefore the message, is saved forever.
 
-Accessibility: All blockchain data is inherently public. Anyone can read, write, or even build their own client software to access the data posted via Dither.
+- Accessibility: All blockchain data is inherently public. Anyone can read, write, or even build their own client software to access the data posted via Dither.
 
 In essence, Dither transforms the blockchain's memo field, a minor technical component, into a global, indelible, and open-source public bulletin board.
 
@@ -53,6 +53,6 @@ Any post can be confirmed, verified, looked at, and downloaded directly from the
 
 Dither isn't just a platform for speaking freely; it's a forum that fosters absolute accountability.
 
-When you post on Dither, you are not just putting information "on the internet"—you are cementing it into a global, distributed ledger that cannot be altered. This creates an environment where users must consider their words carefully, as their posts are permanently associated with their actions on the blockchain.
+When you post on Dither, you are not just putting information "on the internet"-you are cementing it into a global, distributed ledger that cannot be altered. This creates an environment where users must consider their words carefully, as their posts are permanently associated with their actions on the blockchain.
 
 Dither serves as a powerful new tool for open discussion and holding narratives to an unyielding standard of permanence. It offers a way to bluntly and effectively share a truth, an ideology, or engage in a discussion, knowing that the record will stand forever.
