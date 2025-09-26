@@ -37,3 +37,4 @@ Effectively blog posts without a blog.
 - [How to get Into Tech](./how-to-get-into-tech.md) - A document that basically says make a GitHub, write code, and cross your fingers
 - [Programming with Bipolar 2](./programming-with-bipolar-2.md) - A document that shows some upsides and downsides to working in tech with this specific Disorder.
 - [Decentralized by Default](./decentralized-by-default.md) - A protocol for blockchains that enables users to reconstruct application state from a shared place.
+- [Why Dither was Built](./why-dither-was-built.md) - A new type of social media where everything is available and everything is verifiable.
