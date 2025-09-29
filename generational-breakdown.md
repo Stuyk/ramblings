@@ -78,8 +78,9 @@ Which sets you up for failure when you're told you have to take out an $80,000 l
 - Everyone is falling behind on their mortgages and it's causing a recession, we must be living in interesting times.
 - Everyone is losing their jobs, we must be living in interesting times.
 - Everyone at school is being shot at, we must be living in interesting times.
-- Multiple bomb go off on US soil, we must be living in interesting times.
+- Multiple bombs go off on US soil, we must be living in interesting times.
 - A global pandemic shuts everything down, we must be living in interesting.
+- A bunch of pussies get mad about wearing masks in 2020, and then start wearing masks in 2025.
 
 Look, what ended up happening is that any time a Millenial or GenZ entered the workforce in its current state there were massive global implications for the United States. It seemingly spiraled out of control.
 
