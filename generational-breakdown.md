@@ -34,10 +34,10 @@ At no point did anyone mention that the social security we pay into pays for the
 
 At no point did anyone mention that poorer you are the more money you have to make to exit. I mean that if you live in an impoverished area that has crime, and a massive wealth gap you're going to end up paying more.
 
-You must pay more for car insurance.
-You must pay more for property damage.
-You must pay more for your groceries, the dollar tree is more expensive. Look it up.
-You must pay more for medical problems because they're too expensive to fix.
+- You must pay more for car insurance.
+- You must pay more for property damage.
+- You must pay more for your groceries, the dollar tree is more expensive. Look it up.
+- You must pay more for medical problems because they're too expensive to fix.
 
 Point being, if you are poor. You are suffering. You are valid, this system is evil.
 
@@ -51,28 +51,28 @@ College is a special beast because you walk away with over $80,000 of student de
 
 If you are like me, your parents probably taught you nothing about economics. 
 
-I had no idea what a 401k was. 
-I had no idea what an IRA was.
-I had no idea how compounding interest worked.
-I had no idea how interest rates worked. 
-I had no understanding of all the financial ins and outs of society.
-I had no idea what stock was.
-I had no idea what "a lot of money" was considered
+- I had no idea what a 401k was. 
+- I had no idea what an IRA was.
+- I had no idea how compounding interest worked.
+- I had no idea how interest rates worked. 
+- I had no understanding of all the financial ins and outs of society.
+- I had no idea what stock was.
+- I had no idea what "a lot of money" was considered
 
 Which sets you up for failure when you're told you have to take out an $80,000 loan to enrich the banks; you know, for funsies.
 
 ## Interesting Times
 
-We understand nothing about mental health, let's stop understanding and dissolve it.
-Starting a war with Iraq, we must be living in interesting times.
-Everyone has a phone, we must be living in interesting times.
-Everyone is incapable of peer reviewing news, we must be living in interesting times.
-Everyone is falling behind on their mortgages and it's causing a recession, we must be living in interesting times.
-Everyone at school is being shot at, we must be living in interesting times.
-Multiple bomb go off on US soil, we must be living in interesting times.
-A global pandemic shuts everything down, we must be living in interesting.
+- We understand nothing about mental health, let's stop understanding and dissolve it.
+- Starting a war with Iraq, we must be living in interesting times.
+- Everyone has a phone, we must be living in interesting times.
+- Everyone is incapable of peer reviewing news, we must be living in interesting times.
+- Everyone is falling behind on their mortgages and it's causing a recession, we must be living in interesting times.
+- Everyone at school is being shot at, we must be living in interesting times.
+- Multiple bomb go off on US soil, we must be living in interesting times.
+- A global pandemic shuts everything down, we must be living in interesting.
 
-Look, what ended up happening is that any time a Millenial or GenZ entered the workforce in its current state there were massive global implications for the United States. It seemingly spiraling out of control.
+Look, what ended up happening is that any time a Millenial or GenZ entered the workforce in its current state there were massive global implications for the United States. It seemingly spiraled out of control.
 
 ## Housing Disadvantage
 
@@ -82,10 +82,10 @@ Not only are apartments and houses being gobbled up by venture capitalists and f
 
 This is the **average cost of a 1 bedroom apartment** in the US.
 
-Rent in 2001 -> $662
-Rent in 2008 -> $845
-Rent in 2020 -> $1185
-Rent in 2025 -> $1650
+- Rent in 2001 -> $662
+- Rent in 2008 -> $845
+- Rent in 2020 -> $1185
+- Rent in 2025 -> $1650
 
 It's incredibly expensive for housing in the US. Which means a majority of paycheck goes to housing.
 
