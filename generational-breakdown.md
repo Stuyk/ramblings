@@ -22,15 +22,15 @@ Basically, the world changed so much between my childhood and when I entered the
 
 Let me further elaborate what I'm trying to say here:
 
-- Retirement Plans
+## Retirement Plans
 
 They removed the pensions which would pay out forever, and put it on the employee. We now have 401ks and IRAs we must contribute to in order to retire.
 
-- Social Security
+## Social Security
 
 At no point did anyone mention that the social security we pay into pays for the generation that is the oldest. All of our money is deducted into a failed social safety net that the 'responsible citizens' of the US voted to dismantle.
 
-- Poor Tax
+## Poor Tax
 
 At no point did anyone mention that poorer you are the more money you have to make to exit. I mean that if you live in an impoverished area that has crime, and a massive wealth gap you're going to end up paying more.
 
@@ -41,13 +41,13 @@ You must pay more for medical problems because they're too expensive to fix.
 
 Point being, if you are poor. You are suffering. You are valid, this system is evil.
 
-- Be Anything!
+## Be Anything!
 
 We were told that we could be anything in society, as long as we worked hard enough. Which was true for the TRADES and not COLLEGE.
 
 College is a special beast because you walk away with over $80,000 of student debt because we had very poor financial knowledge that the 'responsible citizens' avoided teaching us for their benefit.
 
-- Financial Literacy
+## Financial Literacy
 
 If you are like me, your parents probably taught you nothing about economics. 
 
@@ -61,7 +61,7 @@ I had no idea what "a lot of money" was considered
 
 Which sets you up for failure when you're told you have to take out an $80,000 loan to enrich the banks; you know, for funsies.
 
-- Interesting Times
+## Interesting Times
 
 We understand nothing about mental health, let's stop understanding and dissolve it.
 Starting a war with Iraq, we must be living in interesting times.
@@ -74,7 +74,7 @@ A global pandemic shuts everything down, we must be living in interesting.
 
 Look, what ended up happening is that any time a Millenial or GenZ entered the workforce in its current state there were massive global implications for the United States. It seemingly spiraling out of control.
 
-- Housing Disadvantage
+## Housing Disadvantage
 
 With the wealth inequality being so out-of-control our generation gets to live through insane hyper inflation and a housing crisis. 
 
