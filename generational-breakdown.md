@@ -56,5 +56,45 @@ I had no idea what an IRA was.
 I had no idea how compounding interest worked.
 I had no idea how interest rates worked. 
 I had no understanding of all the financial ins and outs of society.
+I had no idea what stock was.
+I had no idea what "a lot of money" was considered
 
+Which sets you up for failure when you're told you have to take out an $80,000 loan to enrich the banks; you know, for funsies.
 
+- Interesting Times
+
+We understand nothing about mental health, let's stop understanding and dissolve it.
+Starting a war with Iraq, we must be living in interesting times.
+Everyone has a phone, we must be living in interesting times.
+Everyone is incapable of peer reviewing news, we must be living in interesting times.
+Everyone is falling behind on their mortgages and it's causing a recession, we must be living in interesting times.
+Everyone at school is being shot at, we must be living in interesting times.
+Multiple bomb go off on US soil, we must be living in interesting times.
+A global pandemic shuts everything down, we must be living in interesting.
+
+Look, what ended up happening is that any time a Millenial or GenZ entered the workforce in its current state there were massive global implications for the United States. It seemingly spiraling out of control.
+
+- Housing Disadvantage
+
+With the wealth inequality being so out-of-control our generation gets to live through insane hyper inflation and a housing crisis. 
+
+Not only are apartments and houses being gobbled up by venture capitalists and financial firms. Even outside investors are buying in your society where they don't even reside.
+
+This is the **average cost of a 1 bedroom apartment** in the US.
+
+Rent in 2001 -> $662
+Rent in 2008 -> $845
+Rent in 2020 -> $1185
+Rent in 2025 -> $1650
+
+It's incredibly expensive for housing in the US. Which means a majority of paycheck goes to housing.
+
+Especially considering the average **median** salary is roughly around $39,000.
+
+This is a nearly unlivable salary but you can definitely make it if you can manage to get a full-time salary position at a company. LOL
+
+Anyway, the actual average salary of a US worker working on minimum wage is $19,800.
+
+Yet you wonder why people are complaining about the economy, and anyone with a brain can look at that and say that's fucking insane.
+
+BECAUSE IT IS. YOU ARE VALID. EVERYTHING IS INSANE.
