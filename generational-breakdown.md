@@ -26,7 +26,7 @@ Let me further elaborate what I'm trying to say here:
 
 They removed the pensions which would pay out forever, and put it on the employee. We now have 401ks and IRAs we must contribute to in order to retire.
 
-## Social Security
+### Social Security
 
 At no point did anyone mention that the social security we pay into pays for the generation that is the oldest. 
 
