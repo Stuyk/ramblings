@@ -74,3 +74,9 @@ Stablecoins, designed to bypass traditional banks and government control, were i
 4. Absorb the T-Bill collateral to claim debt reduction.
 
 The freedom of the "digital dollar" has been traded to create the "techno-fascist dollar".
+
+## The Looters Revealed
+
+This is a bit of a revelation for me but by blocking the CBDC which the Trump Administration has done. They can continue to profit from the legislation as Trump's family owns 40% stake in World Liberty Financial. This means that with enough time these stablecoins are slowly looting the federal reserve to the point where the government could become insolvent with enough usage.
+
+Thus transferring all of the government's money to private companies.
