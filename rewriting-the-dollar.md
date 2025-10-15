@@ -12,7 +12,7 @@ An important piece of information is that during Trump's administration they pas
 
 US consumers deposit around $18-20 Trillion per year, by issuing or converting consumer deposits into stablecoins they are forced to purchased T-Bills using the people's money.
 
-Collectively, major stablecoin issuers (like Circle, Tether, etc.) hold well over $200 billion in U.S. Treasury Securities. This staggering amount positions them among the top global holders of U.S. debt, surpassing many traditional foreign nations.
+Collectively, major stablecoin issuers (like Circle, Tether, World Liberty Financial, etc.) hold well over $200 billion in U.S. Treasury Securities. This staggering amount positions them among the top global holders of U.S. debt, surpassing many traditional foreign nations.
 
 This massive, new, non-foreign source of capital for U.S. debt helps to keep the government's borrowing costs (interest rates) low, effectively masking the severity of the national debt crisis.
 
