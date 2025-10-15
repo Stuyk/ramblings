@@ -8,7 +8,9 @@ The implications of purchasing a CD were that a record label would get a cut, an
 
 Every year the price of these subscription services for infinite access to streaming has been increasing to the point where you'll have to forgo an entire fucking meal to listen. 
 
-The artists are paid less, I'm getting less value, and the corporations are getting richer.
+The artists are paid less, I must maintain the subscription forever to listen, and the corporations are getting richer.
+
+I own nothing. It's a problem.
 
 Nah, hard pass. This was my breaking point. I'm done subscribing for content. I am going to find more value by taking the time out of my day to purchase the CD. Rip the files. Then throw it onto a media player.
 
