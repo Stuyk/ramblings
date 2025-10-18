@@ -1,4 +1,4 @@
-name: Fetch Crypto Prices and Create Release
+name: Update Blog
 
 on:
   push:
