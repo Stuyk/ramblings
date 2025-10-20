@@ -14,6 +14,6 @@ When Artificial Intelligence enters the picture you lose the magic that is perfo
 
 AI is an interesting tool for boilerplate code and small problems.
 
-Think about the reprecussions of using too much AI.
+Think about the repercussions of using too much AI.
 
 Those who tread too deep may lose a type of mental therapy they used to enjoy.
