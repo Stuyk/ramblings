@@ -12,8 +12,10 @@ When Artificial Intelligence enters the picture you lose the magic that is perfo
 - You stop critical pattern recognition
 - You stop loving
 
-AI is an interesting tool for boilerplate code and small problems.
+AI is an interesting tool for boilerplate code, small problems, and establishing a feedback loop for you to consider edge cases.
 
 Think about the repercussions of using too much AI.
 
 Those who tread too deep may lose a type of mental therapy they used to enjoy.
+
+If we stop understanding AI, then we will lose AI.
