@@ -1,4 +1,4 @@
-# Svelte is Great
+# Svelte is Nice
 
 I never got to experience any of the previous Svelte versions so this may be a hot take for a lot of people.
 
