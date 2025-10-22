@@ -17,7 +17,7 @@ What life could be like without systemic oppression.
 To quote a friend and colleague
 
 > You are limited by their imagination and dreamers like you and me can't fucking deal with that.
-- [Nathan Toups](https://www.linkedin.com/in/nathan-toups/)
+\- [Nathan Toups](https://www.linkedin.com/in/nathan-toups/)
 
 I want to fucking dream. I want to challenge idealogies and build.
 
