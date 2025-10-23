@@ -10,13 +10,13 @@ The result from this is the project will usually crash almost instantaneously an
 
 Here's a chart of a Ultra's token and I would like you to take a guess when VCs dumped their stack.
 
-<img width="842" height="512" alt="image" src="https://github.com/user-attachments/assets/a203e2e6-0192-42f8-87c5-b24f903002af" />
+![](https://github.com/user-attachments/assets/a203e2e6-0192-42f8-87c5-b24f903002af)
 
 ## QANX's VCs
 
 Here is another project which is funded by venture capitalist. This is QANX, and they had a funding round in 2021, and 2023. You can literally see where the VCs are taking their cut.
 
-<img width="837" height="519" alt="image" src="https://github.com/user-attachments/assets/30f34c5a-8f5c-4a3c-b2af-8ff609c22a82" />
+![](https://github.com/user-attachments/assets/30f34c5a-8f5c-4a3c-b2af-8ff609c22a82)
 
 ## Conclusions
 
