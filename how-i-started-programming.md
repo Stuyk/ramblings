@@ -47,7 +47,7 @@ I probably spent a good chunk of the first few months in my job trying to do thi
 I did some therapy, I did a magic mushroom trip and it helped me re-ground myself as the person that I am and grind out some important things about myself like what I believe in and who I am. Frankly, I still have trouble existing as who I am now, but at least I can code some cool ass shit right? Lmao
 
 ## The Lead
-Anyway, I worked at this company All in Bits for nearly 2 years but our CEO turned $17,000,000 in $1.5M overnight and it freaked everyone the fuck out. He called me a Coy Poetic Spooky Monkey, a Dimwit, and a retard. Which frankly, if a CEO can turn $17,000,000 into $1.5M I don’t know what to tell you buddy.
+Anyway, I worked at this company All in Bits for nearly 2 years. Left on... my own terms.
 
 However, what I learned while working at this company was more self-care than anything else. It gave me a lot of peace of mind because it made me much more confident in my skillset as a developer and really confirmed I have much further to go in my career and I definitely need to be leading some projects.
 
@@ -55,14 +55,18 @@ I took on a lot of different tasks while at All in Bits including but not limite
 
 ## The Work Principles
 
-Eventually, I left All in Bits and this was recently considering the timing of this blog post. I now have a full understanding of what red flags to look for when joining companies. It’s a pretty strong list of criticisms but it’s to protect myself and my dignity before I sell my soul for another contract. I will now try to explain them below.
+I now have a full understanding of what red flags to look for when joining companies. 
 
-- No Crazy CEOs
+It’s a pretty strong list of criticisms but it’s to protect myself and my dignity before I sell my soul for another contract. 
+
+I will now try to explain them below.
+
+- Leadership
     - These people should be grounded in reality
     - These people should care about other people
-    - These people should not call their workers servants
-    - These people should not be referencing biblical shit for everything
     - These people should understand what the average American makes
+- No Biblical / 'Christian' Companies
+    - Hard pass.
 - No Project Plan
     - Nothing is more painful than working for someone who can’t put a project plan on paper
 - No Market Fit
@@ -73,7 +77,6 @@ Eventually, I left All in Bits and this was recently considering the timing of t
     - I wanna work at Valve so fucking bad.
 - Recent Company Restructure
     - A company restructure means that they didn’t like the decisions being made so they cut out everyone that they didn’t like.
-    - All in Bits did about 5 of these total.
 
 What’s the takeaway at the end of all of this? I’m not sure but it has been an interesting journey thus far and I’m still really interested in programming but I try to take it easy. I’m still capable of delivering at an abnormal pace but I definitely don’t pull all nighters like I used to.
 
